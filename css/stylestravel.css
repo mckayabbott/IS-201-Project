@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(138, 206, 206);
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:visited{
+    color:green
+}
+
+.header{
+    color: blue;
+    text-align: right;
+    top: 5px;
+    height: 80px;
+    border-bottom: solid 1px #555555;
+}
+
+.title{
+    color: black;
+    text-align: center;
+    top: 0px;
+}
+
+.subtitle{
+    font-weight: bold;
+    font-size: larger;
+    color: black;
+}
+
+.mainbody1{
+    position: absolute;
+}
+
+.mainbody2{
+    position: absolute;
+    left: 475px;
+}
+
+.mainbody3{
+    left: 900px;
+    position: absolute;
+}
+
+.tableau{
+    opacity: 0;
+}
+
+.footer{
+    text-align: right;
+}
